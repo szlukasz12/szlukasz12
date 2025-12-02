@@ -1,4 +1,4 @@
-# 🇵🇱 Wersja polska  
+# Wersja polska  
 
 👋 Cześć, tu Łukasz!
 
@@ -20,7 +20,7 @@ Wystawione jest za pomocą **Cloudflare Tunnel**: https://portfolio.sheamer.pl/
 
 ---
 
-# 🇬🇧 English Version  
+# English Version  
 
 👋 Hi, I'm Łukasz!
 
